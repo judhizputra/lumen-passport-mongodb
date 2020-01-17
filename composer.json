@@ -12,11 +12,17 @@
             "homepage": "http://www.kayrules.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/judhizputra/core-laravel-passport-mongo"
+        }
+    ],
     "require": {
         "php": ">=5.6.4",
         "illuminate/database": "~5.3|~5.4",
         "illuminate/support": "~5.3|~5.4",
-        "lucas-cardial/laravel-passport-mongodb": "^0.2.3"
+        "lucca-cardial/core-laravel-passport-mongo": "dev-latest"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

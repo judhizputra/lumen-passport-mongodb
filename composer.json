@@ -22,7 +22,7 @@
         "php": ">=5.6.4",
         "illuminate/database": "~5.3|~5.4",
         "illuminate/support": "~5.3|~5.4",
-        "lucca-cardial/core-laravel-passport-mongo": "dev-latest"
+        "lucas-cardial/laravel-passport-mongodb": "dev-latest"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",

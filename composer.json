@@ -1,5 +1,5 @@
 {
-    "name": "kayrules/lumen-passport-mongodb",
+    "name": "judhizputra/lumen-passport-mongodb",
     "type": "library",
     "description": "Making Laravel Passport work with Lumen and MongoDB",
     "keywords": ["php","lumen","laravel passport", "mongodb"],
